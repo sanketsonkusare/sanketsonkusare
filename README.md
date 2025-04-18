@@ -36,7 +36,6 @@ const stack = {
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanketsonkusare&show_icons=true&theme=tokyonight" alt="Sanket's GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketsonkusare&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
