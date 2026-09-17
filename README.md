@@ -90,7 +90,7 @@ The system evolved from semantic search toward **hybrid retrieval** to improve p
 <p align="center">
   <a href="https://github.com/sanketsonkusare">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sanketsonkusare&theme=tokyo-night&hide_border=true"
+      src="https://github-readme-activity-graph-sage-two.vercel.app/graph?username=sanketsonkusare&theme=tokyo-night&hide_border=true"
       alt="Sanket's GitHub Activity Graph"
     />
   </a>
