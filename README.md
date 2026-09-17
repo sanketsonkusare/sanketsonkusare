@@ -1,61 +1,114 @@
-# 👋 Hey there, I'm Sanket!
+# 👋 Hey, I'm Sanket Sonkusare
 
-## 🧠 MTech Data Science Student | 💻 MERN Stack Developer | 🤖 AI/ML Enthusiast | 🏋️ Fitness Focused
+**Forward Deployed Engineer @ DevRev · AI Engineer**
 
----
+I build AI-powered products and systems at the intersection of **LLMs, agentic workflows, RAG, and full-stack engineering**. I enjoy taking ideas from prototype to production—working through the less glamorous parts of AI systems like reliability, state, latency, observability, deployment, and cost.
 
-### 👨‍💻 About Me:
-- 🎓 Pursuing **MTech in Data Science & Analytics**
-- 💡 Passionate about building intelligent systems using **Machine Learning** and **Deep Learning**
-- 💻 Skilled in **React**, **Node.js**, **MongoDB**, **Python**, **TensorFlow**, and **Scikit-Learn**
-- 🧱 Currently building awesome full-stack projects using the **MERN** stack
-- 🏋️‍♂️ Fitness content creator & **Silver Medalist** in University Bodybuilding
-- 🎶 Can play almost anything on the **flute** — music is my meditation 🎵
+Currently focused on **AI agents, multi-agent systems, RAG, and production software engineering**.
 
 ---
 
-### 🚀 Tech Stack
+## 🧠 What I Work On
 
-```javascript
-const stack = {
-  frontend: ['React', 'Tailwind CSS', 'JavaScript'],
-  backend: ['Node.js', 'Express.js', 'MongoDB'],
-  ml_ai: ['Python', 'TensorFlow', 'Scikit-Learn'],
-  tools: ['Git', 'VS Code', 'Jupyter', 'Postman']
-};
+* 🤖 **AI Agents & LLM Applications** — LangGraph, LangChain, Gemini
+* 🔎 **RAG & Retrieval** — semantic search, hybrid search, vector databases
+* ⚙️ **Backend & APIs** — Python, FastAPI, Node.js
+* 🏗️ **Production Systems** — Docker, AWS, Redis, CI/CD
+* 💻 **Full-Stack Development** — React, Next.js, TypeScript
+* 📱 **Product Engineering** — building and shipping end-to-end applications
+
+I've worked on systems involving **multi-agent RAG, human-in-the-loop workflows, conversational AI, semantic/hybrid search, and AI-powered research tools**.
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+AI / LLMs       Python · LangChain · LangGraph · Gemini · RAG
+                Multi-Agent Systems · Prompt Engineering · NLP
+
+Backend         FastAPI · Node.js · Express.js · REST APIs
+
+Frontend        React · Next.js · TypeScript · JavaScript
+                Tailwind CSS
+
+Data            MongoDB · PostgreSQL · Redis · Pinecone
+
+Infrastructure  Docker · AWS · GitHub Actions · Vercel
+
+Tools           Git · Linux · Postman · Jupyter
 ```
 
 ---
 
-### 🌐 Connect with Me
-- 📷 [Instagram](https://instagram.com/sassysanket)
-- 💼 [LinkedIn](https://linkedin.com/in/sanketsonkusare)
+## 🚀 Featured Projects
+
+### 🏋️ Aroven
+
+A fitness platform for tracking **workouts, nutrition, progress, and coaching**.
+
+Built across web and mobile, including a React Native application and a production API architecture.
+
+**Built with:** React · React Native · TypeScript · Node.js · FastAPI · MongoDB
 
 ---
 
-### 📈 GitHub Stats
+### 🎥 AutoVoyce
+
+AI-powered YouTube research assistant that lets users interact with video content through conversational search and voice.
+
+**Built with:** Python · FastAPI · LangChain · LangGraph · Pinecone · Next.js
+
+The system evolved from semantic search toward **hybrid retrieval** to improve precision for structured queries, identifiers, and exact matches.
+
+---
+
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketsonkusare&show_icons=true&theme=tokyonight" alt="Sanket's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketsonkusare&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats-mu-nine-45.vercel.app/api?username=sanketsonkusare&show_icons=true&theme=tokyonight&include_all_commits=true"
+    alt="Sanket's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-mu-nine-45.vercel.app/api/top-langs/?username=sanketsonkusare&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-zeta-lemon.vercel.app/?user=sanketsonkusare&theme=tokyonight"
+    alt="Sanket's GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-### 🎯 Fun Fact
-<p align="center">
-  <b>"You either lift heavy weights or heavy code. I do both."</b>
-</p>
+## 📈 Contribution Activity
 
----
-
-### 🎵 Bonus: Rickroll Guaranteed
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="300" alt="Rick Astley" />
+  <a href="https://github.com/sanketsonkusare">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sanketsonkusare&theme=tokyo-night&hide_border=true"
+      alt="Sanket's GitHub Activity Graph"
+    />
   </a>
 </p>
 
 ---
 
-Thanks for stopping by! Let's build, lift, and grow together. 💪🔥
+## 🌐 Find Me
 
+* 🌐 [Personal Website](https://sanketsonkusare.me/)
+* 𝕏 [X / Twitter](https://x.com/sassysanket)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanketsonkusare/)
+* 📷 [Instagram](https://instagram.com/sassysanket)
+
+---
+
+## ⚡ Outside of Code
+
+When I'm not building software, you'll probably find me **lifting weights** or creating fitness content.
+
+> **Build systems. Build products. Build yourself.**
