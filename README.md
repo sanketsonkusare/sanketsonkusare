@@ -4,7 +4,7 @@
 
 I build AI-powered products and systems at the intersection of **LLMs, agentic workflows, RAG, and full-stack engineering**. I enjoy taking ideas from prototype to production—working through the less glamorous parts of AI systems like reliability, state, latency, observability, deployment, and cost.
 
-Currently focused on **AI agents, multi-agent systems, RAG, and production software engineering**.
+Currently focused on **Devrev and Building Aroven**.
 
 ---
 
