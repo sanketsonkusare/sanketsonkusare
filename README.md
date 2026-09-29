@@ -10,10 +10,10 @@ Currently focused on **Devrev and Building Aroven**.
 
 ## 🧠 What I Work On
 
-* 🤖 **AI Agents & LLM Applications** — LangGraph, LangChain, Gemini
+* 🤖 **AI Agents & LLM Applications** — LangGraph, LangChain, CrewAI
 * 🔎 **RAG & Retrieval** — semantic search, hybrid search, vector databases
-* ⚙️ **Backend & APIs** — Python, FastAPI, Node.js
-* 🏗️ **Production Systems** — Docker, AWS, Redis, CI/CD
+* ⚙️ **Backend & APIs** — Python, FastAPI, Node.js, NestJS
+* 🏗️ **Production Systems** — Docker, AWS, Redis, CI/CD, PostgreSQL
 * 💻 **Full-Stack Development** — React, Next.js, TypeScript
 * 📱 **Product Engineering** — building and shipping end-to-end applications
 
@@ -24,7 +24,7 @@ I've worked on systems involving **multi-agent RAG, human-in-the-loop workflows,
 ## 🛠️ Tech Stack
 
 ```text
-AI / LLMs       Python · LangChain · LangGraph · Gemini · RAG
+AI / LLMs       Python · LangChain · LangGraph · CrewAI · RAG
                 Multi-Agent Systems · Prompt Engineering · NLP
 
 Backend         FastAPI · Node.js · Express.js · REST APIs
