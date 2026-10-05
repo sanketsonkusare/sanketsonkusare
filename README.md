@@ -1,114 +1,32 @@
-# 👋 Hey, I'm Sanket Sonkusare
+## Hi, I'm Sanket
 
-**Forward Deployed Engineer @ DevRev · AI Engineer**
+Forward Deployed Engineer at [DevRev](https://devrev.ai), based in Bengaluru.
 
-I build AI-powered products and systems at the intersection of **LLMs, agentic workflows, RAG, and full-stack engineering**. I enjoy taking ideas from prototype to production—working through the less glamorous parts of AI systems like reliability, state, latency, observability, deployment, and cost.
+I build AI products and the systems behind them: agents, RAG, data pipelines and full-stack apps. I like taking ideas from prototype to production and working through the unglamorous parts: reliability, latency, state, observability and cost.
 
-Currently focused on **Devrev and Building Aroven**.
+Currently building [Aroven](https://www.aroven.fit/) and learning to scale AI architectures.
 
----
+### Work
 
-## 🧠 What I Work On
+- **DevRev**, Forward Deployed Engineer: connectors and workflows that bring customer data from BigQuery and Snowflake into the platform. One workflow replaced three connector snap-ins and registered 167 datasets with zero failures.
+- **Scrobits**, AI Engineer: agentic enterprise RAG, a multi-agent support chatbot with 95% routing accuracy, and a production voice assistant that changes the website from spoken requests.
+- **Manastik**, ML Intern: real-time yoga pose detection and scoring with MediaPipe on TFLite.
 
-* 🤖 **AI Agents & LLM Applications** — LangGraph, LangChain, CrewAI
-* 🔎 **RAG & Retrieval** — semantic search, hybrid search, vector databases
-* ⚙️ **Backend & APIs** — Python, FastAPI, Node.js, NestJS
-* 🏗️ **Production Systems** — Docker, AWS, Redis, CI/CD, PostgreSQL
-* 💻 **Full-Stack Development** — React, Next.js, TypeScript
-* 📱 **Product Engineering** — building and shipping end-to-end applications
+### Projects
 
-I've worked on systems involving **multi-agent RAG, human-in-the-loop workflows, conversational AI, semantic/hybrid search, and AI-powered research tools**.
+- [**Aroven**](https://www.aroven.fit/): fitness tracking and coaching platform for individuals and coaches. Workouts, nutrition, check-ins and a coach dashboard. Try the [web app](https://web.aroven.fit/).
+- [**AutoVoyce**](https://github.com/sanketsonkusare/AutoVoyce): talk to YouTube videos. A RAG pipeline over transcripts with voice in and out, moving from semantic to hybrid retrieval for exact matches.
+- [**Convo**](https://github.com/sanketsonkusare/Convo): real-time chat app with a built-in AI assistant.
 
----
+### Stack
 
-## 🛠️ Tech Stack
+**AI**: Python, LangChain, LangGraph, CrewAI, RAG, Pinecone, multi-agent systems<br>
+**Backend**: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis<br>
+**Frontend**: React, Next.js, React Native, TypeScript, Tailwind CSS<br>
+**Infra**: Docker, AWS, GitHub Actions, Vercel
 
-```text
-AI / LLMs       Python · LangChain · LangGraph · CrewAI · RAG
-                Multi-Agent Systems · Prompt Engineering · NLP
+### Elsewhere
 
-Backend         FastAPI · Node.js · Express.js · REST APIs
+[Website](https://sanketsonkusare.me) · [LinkedIn](https://www.linkedin.com/in/sanketsonkusare/) · [X](https://x.com/sassysanket) · [Email](mailto:sanketsonkusare01@gmail.com)
 
-Frontend        React · Next.js · TypeScript · JavaScript
-                Tailwind CSS
-
-Data            MongoDB · PostgreSQL · Redis · Pinecone
-
-Infrastructure  Docker · AWS · GitHub Actions · Vercel
-
-Tools           Git · Linux · Postman · Jupyter
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🏋️ Aroven
-
-A fitness platform for tracking **workouts, nutrition, progress, and coaching**.
-
-Built across web and mobile, including a React Native application and a production API architecture.
-
-**Built with:** React · React Native · TypeScript · Node.js · FastAPI · MongoDB
-
----
-
-### 🎥 AutoVoyce
-
-AI-powered YouTube research assistant that lets users interact with video content through conversational search and voice.
-
-**Built with:** Python · FastAPI · LangChain · LangGraph · Pinecone · Next.js
-
-The system evolved from semantic search toward **hybrid retrieval** to improve precision for structured queries, identifiers, and exact matches.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-mu-nine-45.vercel.app/api?username=sanketsonkusare&show_icons=true&theme=tokyonight&include_all_commits=true"
-    alt="Sanket's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-mu-nine-45.vercel.app/api/top-langs/?username=sanketsonkusare&layout=compact&langs_count=8&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-zeta-lemon.vercel.app/?user=sanketsonkusare&theme=tokyonight"
-    alt="Sanket's GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/sanketsonkusare">
-    <img
-      src="https://github-readme-activity-graph-sage-two.vercel.app/graph?username=sanketsonkusare&theme=tokyo-night&hide_border=true"
-      alt="Sanket's GitHub Activity Graph"
-    />
-  </a>
-</p>
-
----
-
-## 🌐 Find Me
-
-* 🌐 [Personal Website](https://sanketsonkusare.me/)
-* 𝕏 [X / Twitter](https://x.com/sassysanket)
-* 💼 [LinkedIn](https://www.linkedin.com/in/sanketsonkusare/)
-* 📷 [Instagram](https://instagram.com/sassysanket)
-
----
-
-## ⚡ Outside of Code
-
-When I'm not building software, you'll probably find me **lifting weights** or creating fitness content.
-
-> **Build systems. Build products. Build yourself.**
+Outside of code I lift weights and play the flute.
